@@ -14,7 +14,7 @@
 #### From a command prompt run these commands in order:
 <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:left; padding:40px; border-radius:4px;">
 <div style="margin:auto;">
-    https://github.com/Dunemask/Codepen-Website-Replication.git
+    git clone https://github.com/Dunemask/Codepen-Website-Replication.git
     <br/>
     cd Codepen-Website-Replication
     <br/>
