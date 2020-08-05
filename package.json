@@ -4,7 +4,7 @@
   "description": "Simple Web server",
   "main": "app.js",
   "scripts": {
-    "start": "nodejs app.js "
+    "start": "node app.js "
   },
   "author": "Dunemask",
   "license": "ISC",
