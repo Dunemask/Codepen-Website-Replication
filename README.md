@@ -1,5 +1,5 @@
 # Codepen-Website-Replication
- This project is a visual replication of the [codepen.io](https://codepen.io) webpage.
+ This project is a visual replication of the first part of the [codepen.io](https://codepen.io) webpage.
 
 ![Image Not Found](https://raw.githubusercontent.com/Dunemask/Codepen-Website-Replication/master/Codepen.png)
 
